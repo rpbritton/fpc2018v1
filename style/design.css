@@ -1,0 +1,39 @@
+body 
+{
+	background-color: orange;
+}
+
+#content 
+{
+	background-color: purple;
+}
+
+#cards 
+{
+    background-color: green;   
+}
+
+#nav_left 
+{
+    background-color: red;
+}
+
+#nav_right 
+{
+    background-color: yellow;
+}
+
+#nav_middle 
+{
+    background-color: blue;
+}
+
+.card_container 
+{
+    background-color: black;
+}
+
+.card 
+{
+	background-color: gray;
+}
