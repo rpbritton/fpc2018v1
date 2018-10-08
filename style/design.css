@@ -3,7 +3,7 @@ body
 	background-color: orange;
 }
 
-#content 
+main
 {
 	background-color: purple;
 }
@@ -13,17 +13,21 @@ body
     background-color: green;   
 }
 
-#nav_left 
+header
 {
     background-color: red;
 }
 
-#nav_right 
-{
-    background-color: yellow;
+footer {
+	background-color: yellow;
 }
 
-#nav_middle 
+nav
+{
+	background-color: azure;
+}
+
+figure
 {
     background-color: blue;
 }
